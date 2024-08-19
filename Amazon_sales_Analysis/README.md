@@ -30,6 +30,6 @@ this project contains the analysis of amazon sales in the 4th month.
 2. 6.3% products are on the way to the gettig shipped.<br>
 3. 4.5% products are cancelled by the customer<br>
 4. 4.0% products are not has been shipped.<br>
-# 7.custonomer vs business sales<br>
+# 7.customer vs business sales<br>
 99.15% products sale is comming from the customers<br>
 0.85% products sales came from the business to business sales.<br>
